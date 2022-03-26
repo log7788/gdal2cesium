@@ -1,5 +1,10 @@
 gdal2cesium
 ===========
+python2.7
+pip intall https://download.lfd.uci.edu/pythonlibs/x6hvwk7i/cp27/GDAL-2.2.4-cp27-cp27m-win_amd64.whl
+pip install https://download.lfd.uci.edu/pythonlibs/x6hvwk7i/cp27/Shapely-1.6.4.post2-cp27-cp27m-win_amd64.whl
+pip install --upgrade numpy
+gdal2cesium.py -o tiles 123.tif
 
 Introduction
 ------------
